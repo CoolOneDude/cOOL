@@ -1,0 +1,12 @@
+h1 {
+  color:#30f2d1;
+  font-size:60px;
+}
+p {
+  color:#dd4242;
+  font-size:25px;
+}
+#{
+  font-size: 30px;
+  color:#D29A1A;
+}
