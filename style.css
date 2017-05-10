@@ -9,6 +9,7 @@ p {
 #color{
   font-size:30px;
   color:#00DC99;
+  text-shadow: 2px 2px black;
 }
 body {
     background-image: url('foodwall.jpg');
